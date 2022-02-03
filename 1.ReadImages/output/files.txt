@@ -1,0 +1,1 @@
+After running step 1, three files must be here: "alarms.csv", "image_paths.csv", and "spiro_tables.csv"
